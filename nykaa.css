@@ -1,0 +1,1034 @@
+*{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar1{
+        height: 40px;
+        width: 1220px;
+        color: #f4f4f4;
+        background-color: #003243;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-left: 70px;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 19px;
+    }
+
+ #icon{
+    font-size: 17px;
+    padding-right: 70px;
+ }   
+
+ .navbar2{
+   height: 68px;
+   width: 1285px;
+   display: flex;
+   background-color: white;
+   border-bottom:0.1px solid rgb(176, 176, 176);
+   
+ }
+ .logo{
+   height: 45px;
+   width: 78px;
+   background-color: white;
+   background-image: url("nykaa_new-removebg-preview\(1\).png");
+   background-size: cover;
+   margin-left: 60px;
+   margin-top: 10px;
+  
+ }
+ .nav-icon-3{
+   height: 62px;
+   width: 350px;
+   margin-left: 20px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+ }
+
+ .nav-icon-4{
+   height: 40px;
+   width: 225px;
+   margin-left:300px ;
+   margin-top: 15px;
+   background-color:rgb(240, 240, 240);
+ }
+#search1{
+   height: 40px;
+   width: 204px;
+   border: none;
+   background-color:rgb(240, 240, 240);
+   color: rgb(100, 100, 100);
+   font-size: 16px;
+   padding-left: 11px;
+   outline: none;
+   
+}
+
+.fa-solid{
+   color: rgb(190, 190, 190);
+   padding-left: 5px;
+}
+ .nav-icon-3 a{
+   text-decoration: none;
+   color: black;
+   font-weight: 501;
+
+ }
+ .nav-icon-3 a:hover{
+   color: #016a8d;
+ }
+ #icon2{
+   color: black;
+   margin-right: 10px;
+
+ }
+ .user{
+   display: flex;
+   width: 120px;
+   align-items: center;
+   color:rgb(100, 100, 100) ;
+   margin-left: 20px;
+ }
+ .user a{
+   text-decoration: none;
+   color: rgb(100, 100, 100);
+ }
+ .user a:hover{
+   color: #016a8d;
+ }
+ .cart{
+   display: flex;
+   align-items: center;
+   width: 35px;
+   color: black;
+   /* margin-left: 10px; */
+   
+ }
+ #icon3{
+      color: black;
+
+
+ }
+ .navbar3{
+   height: 50px;
+   width: 1285px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+ }
+ .navbar3 a{
+   text-decoration: none;
+   /* background-color: blue; */
+   color: grey;
+ }
+
+ #anchor:hover{
+   border-bottom: 2.5px solid #016a8d;
+   color: #016a8d;
+}
+ #anchor{
+   height: 37px;
+   /* background-color: pink; */
+   padding-top: 13px;
+ }
+ #anchor1{
+   height: 23px;
+   width:60px ;
+   text-align: center;
+   background-color: #004860;
+   color: #f4f4f4;
+   border-radius: 5px;
+ }
+ 
+ .nav4{
+   height: 7px;
+   width: 1285px;
+   background-color: rgb(230, 230, 230);
+ }
+ .nav5{
+   height:170px ;
+   width: 1285px;
+   background-color:#004860 ;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+ }
+ .img1{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa1.avif");
+   background-size: cover;
+   
+}
+.img2{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa2.avif");
+   background-size: cover;
+   
+}
+.img3{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa3.avif");
+   background-size: cover;
+   
+}
+.img4{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa4.avif");
+   background-size: cover;
+   
+}
+.img5{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa5.avif");
+   background-size: cover;
+   
+}
+.img6{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa6.avif");
+   background-size: cover;
+   
+}
+.img7{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa7.avif");
+   background-size: cover;
+   
+}
+.img8{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa8.avif");
+   background-size: cover;
+   
+}
+.img9{
+   height: 130px;
+   width: 130px;
+   /* background-color: pink; */
+   background-image: url("nykaa9.avif");
+   background-size: cover;
+   
+}
+.nav6{
+   height: 300px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.full-image1{
+   height:285px ;
+   width:1180px;
+   background-image: url("nykaa\ A1.avif");
+   background-size:cover ;
+   border-radius:15px;
+
+}
+.nav7{
+   height: 60px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#boom {
+   font-size: 30px;
+}
+.nav8{
+   height: 300px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.full-image2{
+   height: 285px;
+   width: 1180px;
+   background-image: url("nykaa\ A2.avif");
+   background-size: cover;
+   border-radius: 15px;
+}
+.mini-img1{
+   height: 280px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+.mini-img1 a{
+   height: 250px;
+   width: 180px;
+   text-decoration: none;
+   color: black;
+   background-color: white;
+   display: flex;
+   justify-content: center;
+   align-items: flex-end;
+   font-size: 1.1rem;
+   font-weight: 501;
+   
+}
+#img1{
+   background-image: url("nykaa\ mini1.avif");
+   background-size:cover ;
+   /* border-radius: 10px; */
+}
+#img2{
+   background-image: url("nykaa\ mini2.avif");
+   background-size:cover ;
+   /* border-radius: 10px; */
+}
+#img3{
+   background-image: url("nykaa\ mini3.avif");
+   background-size:cover ;
+   /* border-radius: 10px; */
+}
+#img4{
+   background-image: url("nykaa\ mini4.avif");
+   background-size:cover ;
+   /* border-radius: 10px; */
+}
+#img5{
+   background-image: url("nykaa\ mini1.avif");
+   background-size:cover ;
+   /* border-radius: 10px; */
+}
+.nav9{
+   height: 120px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 2.1rem;
+   color: white;
+}
+.nav10{
+   height: 260px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+
+}
+#img6{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p1.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img7{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p2.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img8{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p3.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img9{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p4.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img10{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p5.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+.text1{
+   height: 30px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+}
+.text1 a{
+   text-decoration: none;
+   color: white;
+   font-size: 1.2rem;
+   font-weight: 501;
+   
+}
+.text2{
+   height: 30px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   align-items: center;
+   
+
+}
+.text2 a{
+   text-decoration: none;
+   color: white;
+   font-size: 1rem;
+   
+   
+}
+.space1{
+   height: 50px;
+   width: 1285px;
+   background-color: #004860;
+}
+
+.nav11{
+   height: 260px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+
+}
+
+
+
+
+
+#img11{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p6.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img12{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p7.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img13{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p8.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img14{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p9.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#img15{
+   height: 250px;
+   width: 180px;
+   background-image: url("nykaa\ p10.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+
+.text3{
+   height: 30px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   justify-content: flex-start;
+   align-items: center;
+
+}
+.text3 a{
+   text-decoration: none;
+   color: white;
+   font-size: 1.2rem;
+   font-weight: 501;
+   
+}
+.text4{
+   height: 30px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   align-items: center;
+   
+
+}
+.text4 a{
+   text-decoration: none;
+   color: white;
+   font-size: 1rem;
+   
+   
+}
+.space2{
+   height: 50px;
+   width: 1285px;
+   background-color: #004860;
+}
+.space2{
+   height: 70px;
+   width: 1285px;
+   background-color: #004860;
+}
+.text5{
+   height: 50px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   color: white;
+   font-size: 2.1rem;
+   font-weight: 502;
+}
+
+.nav12{
+   height: 350px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+
+}
+#ig1{
+   height: 231px;
+   width: 210px;
+   background-image: url("fila\ 1.avif");
+   background-size: cover;
+}
+#ig2{
+   height: 231px;
+   width: 210px;
+   background-image: url("fila\ 2.avif");
+   background-size: cover;
+}
+#ig3{
+   height: 231px;
+   width: 210px;
+   background-image: url("fila\ 3.avif");
+   background-size: cover;
+}
+#ig4{
+   height: 231px;
+   width: 210px;
+   background-image: url("fila\ 4.avif");
+   background-size: cover;
+}
+#ig5{
+   height: 231px;
+   width: 210px;
+   background-image: url("fila\ 5.avif");
+   background-size: cover;
+}
+.nav13{
+   height: 250px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+
+}
+
+
+
+
+
+
+
+
+#ig6{
+   height: 178px;
+   width: 178px;
+   background-image: url("logo1.avif");
+   background-size: cover;
+}
+#ig7{
+   height: 178px;
+   width: 178px;
+   background-image: url("logo2.avif");
+   background-size: cover;
+}
+#ig8{
+   height: 178px;
+   width: 178px;
+   background-image: url("logo3.avif");
+   background-size: cover;
+}
+#ig9{
+   height: 178px;
+   width: 178px;
+   background-image: url("logo4.avif");
+   background-size: cover;
+}
+#ig10{
+   height: 178px;
+   width: 178px;
+   background-image: url("logo5.avif");
+   background-size: cover;
+}
+#ig11{
+   height: 178px;
+   width: 178px;
+   background-image: url("logo6.avif");
+   background-size: cover;
+}
+.text6{
+   height: 70px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   color: white;
+   font-size: 2.1rem;
+   font-weight: 502;
+}
+.image11{
+   height: 330px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: space-evenly;
+   text-align: center;
+}
+#mens1{
+   height: 303px;
+   width:237px ;
+   background-image: url("mens1.avif");
+   background-size: cover;
+}
+#mens2{
+   height: 303px;
+   width:237px ;
+   background-image: url("mens2.avif");
+   background-size: cover;
+}
+#mens3{
+   height: 303px;
+   width:237px ;
+   background-image: url("mens3.avif");
+   background-size: cover;
+}
+#mens4{
+   height: 303px;
+   width:237px ;
+   background-image: url("mens4.avif");
+   background-size: cover;
+}
+#mens5{
+   height: 303px;
+   width:237px ;
+   background-image: url("mens5.avif");
+   background-size: cover;
+}
+.image12{
+   height: 350px;
+   width: 1285px;
+   background-color: #004860;
+
+}
+.full-image3{
+   height: 335px;
+   width: 1285px;
+   background-image: url("nykaa\ b1.avif");
+   background-size: cover;
+}
+.image13{
+   height:350px ;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+}
+#key1{
+   height: 282px;
+   width: 210px;
+   background-image: url("key1.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#key2{
+   height: 282px;
+   width: 210px;
+   background-image: url("key2.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#key3{
+   height: 282px;
+   width: 210px;
+   background-image: url("key3.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#key4{
+   height: 282px;
+   width: 210px;
+   background-image: url("key4.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#key5{
+   height: 282px;
+   width: 210px;
+   background-image: url("key5.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+.image14{
+   height:320px ;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+
+}
+#key6{
+   height: 282px;
+   width: 210px;
+   background-image: url("key6.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#key7{
+   height:282px ;
+   width: 210px;
+   background-image: url("key7.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+#key8{
+   height:282px ;
+   width: 210px;
+   background-image: url("key8.avif");
+   background-size: cover;
+   border-radius: 10px;
+}
+
+.text7{
+   height: 40px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   justify-content:flex-start;
+   font-size: 1.1rem;
+   font-weight: 502;
+}
+.text7 a{
+   text-decoration: none;
+   color: white;
+}
+
+.text8{
+   height: 40px;
+   width: 1285px;
+   background-color: #004860;
+   color: white;
+   display: flex;
+   justify-content:flex-start;
+   font-size: 1.1rem;
+   font-weight: 502;
+}
+.text8 a{
+   text-decoration: none;
+   color: white;
+}
+.text9{
+   height: 120px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   color: white;
+   justify-content: center;
+   align-items: center;
+   font-size: 2.5rem;
+   font-weight: 700;
+}
+.button{
+   height: 100px;
+   width: 1285px;
+   background-color: #004860;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.shop{
+   height: 70px;
+   width: 220px;
+   border-radius: 10px;
+   background-color: white;
+   color:#016a8d;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 2rem;
+   font-weight: 501;
+}
+
+.shop:hover{
+   background-color: gray;
+}
+.email-box1{
+   height: 150px;
+   width: 1285px;
+   background-color: rgb(60, 60, 60);
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.email1{
+   height:100px ;
+   width: 331px;
+   /* background-color: antiquewhite; */
+}
+.email2{
+   height:100px ;
+   width: 450px;
+   /* background-color: antiquewhite; */
+   font-size: 10px;
+}
+.email2 p{
+   font-size: 14px;
+}
+.email1 p i{
+   font-size: 20px;
+   color: white;
+}
+p{
+   font-size: 16px;
+   color: white;
+}
+#button{
+ width: 60px;
+ height: 30px;
+ color: white;
+ border: 1px solid white;
+ border-radius: 2px;
+ background-color:rgb(60, 60, 60)
+
+}
+
+
+
+#mail{
+   width: 200px;
+   height: 28px;
+   outline: none;
+   border: none;
+   color: white;
+   border-bottom: 1px solid white;
+   background-color:rgb(60, 60, 60) ;
+
+}
+.footer1{
+   height: 350px;
+   width: 1285px;
+   background-color: #003243;
+   display: flex;
+   justify-content: space-evenly; 
+   align-items: center; 
+
+}
+.eshu1{
+   height: 200px;
+   width: 100px;
+   font-size: smaller;
+   /* background-color: pink; */
+}
+
+.eshu2{
+   height: 200px;
+   width: 170px;
+   font-size: smaller;
+   /* background-color: pink; */
+}
+.eshu1 p a{
+   text-decoration: none;
+   color: white;
+   font-size: smaller;
+}
+.eshu2 p a{
+   text-decoration: none;
+   color: white;
+   font-size: smaller;
+}
+#nykaaa{
+   height: 45px;
+   width:78px ;
+   background-image: url("nykaa_new-removebg-preview\(1\).png");
+   background-size:cover ;
+}
+.eshu1 p a{
+   text-decoration: none;
+   color: white;
+}
+.eshu1 p a:hover{
+   color: #01546f;
+}
+.eshu2 p a:hover{
+   color: #01546f;
+}
+
+
+
+
+
+
+
+
+
+
+.footer2{
+   height: 200px;
+   width: 1285px;
+   /* background-color:bisque; */
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   
+   
+}
+.truck1{
+   height: 100px;
+   width: 300px;
+   /* background-color: coral; */
+   
+}
+.truck1 i{
+   font-size: 35px;
+   margin-top: 20px;
+   color: black;
+}
+.truck1 a{
+   font-size: 15px;
+   text-decoration: none;
+   color:black;
+   
+}
+
+
+.truck1 p{
+   font-size: 15px;
+   margin-left: 65px;
+   color: black;
+}
+.truck2 p{
+   font-size: 15px;
+   margin-left: 65px;
+   color: black;
+}
+
+
+.truck2{
+   height: 100px;
+   width: 300px;
+   /* background-color: darkseagreen; */
+   color:black;
+   
+}
+.truck2 a{
+   font-size: 15px;
+   text-decoration: none;
+   color:black;
+   
+}
+.truck2 i{
+   font-size: 35px;
+   margin-top: 10px;
+}
+
+
+.footer3{
+   height: 40px;
+   width: 1285px;
+   background-color: #003243;
+   display: flex;
+   justify-content:center;
+   align-items: center;
+   font-size: 0.85rem;
+   
+}
+.footer5{
+   height: 40px;
+   width: 1285px;
+   background-color: #003243;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 0.85rem;
+   
+}
+.footer3 a{
+   text-decoration: none;
+   color: white;
+}
+.footer4{
+   height: 380px;
+   width: 1285px;
+   background-color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+#foot4 a{
+   text-decoration: none;
+   color: black;
+   font-size: 1rem;
+   
+}
+
+   
+
+.foot4{
+   height: 350px;
+   width: 1060px;
+   color: black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+.foot4 p {
+   color: black;
+}
